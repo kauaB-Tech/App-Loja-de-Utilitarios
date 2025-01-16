@@ -1,4 +1,4 @@
-# myapp
+# Aplicativo de Loja de utilitarios
 
 A new Flutter project.
 
